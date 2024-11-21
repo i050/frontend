@@ -1,0 +1,16 @@
+/* מבנה Flexbox ליישור התוכן */
+.app-container {
+  margin-left: 150px;
+    display: flex;
+    flex-direction: column;
+    height: 100vh; /* גובה מלא של חלון הדפדפן */
+  }
+  
+  footer {
+    background-color: #212529;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+    width: 100%;
+  }
+  

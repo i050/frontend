@@ -1,0 +1,10 @@
+.customers-container {
+    margin-left: 250px;  /* גודל הסיידבר בצד שמאל */
+    display: flex;
+    justify-content: center; /* למרכז את התוכן אופקית */
+    align-items: center; /* למרכז את התוכן אנכית */
+    height: 100vh; /* תופס את כל גובה המסך */
+    padding: 20px; /* רווח פנימי */
+    box-sizing: border-box; /* כוללים את הרווחים בתוך החישוב של הרוחב והגובה */
+  }
+  

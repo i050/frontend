@@ -1,0 +1,8 @@
+.centered-spinner-container {
+    display: flex;
+    justify-content: center; /* מרכז את ה-Spinner בצורה אופקית */
+    align-items: center; /* מרכז את ה-Spinner בצורה אנכית */
+    height: 100vh; /* גובה של כל המסך */
+    padding: 50px; /* פדניג גדול סביב ה-Spinner */
+  }
+  
